@@ -74,6 +74,7 @@
 
 # Audio
 *.mp3      binary
+*.wav      binary
 
 #
 # Exclude files from exporting
